@@ -7,14 +7,6 @@ For demo, click http://143.248.48.126:9000
 
 
 
-For evaluation and comparison (non-emotional):
+For evaluation and comparison:
 
-click http://143.248.48.126:9001 for the original Tacotron, and 
-click http://143.248.48.126:9002 for the improved Tacotron.
-
-
-
-Generated Non-seen Random Samples:
-- Original Tacotron (non-emotional)
-- Improved Tacotron (non-emotional)
-- Emotional Improved Tacotron
+click http://143.248.48.126:9001 for demo of the original Tacotron (non-emotional)
