@@ -1,6 +1,7 @@
 # Emotional-TTS
 
-Korean Emotional End-to-End Neural Speech synthesizer, based on the Tacotron model (Y. Wang et al., “Tacotron: Towards End-to-End Speech Synthesis,” arXiv Prepr. arXiv1703.10135, 2017).  
+Demo and sample files for "Emotional End-to-End Neural Speech synthesizer" https://arxiv.org/pdf/1711.05447.pdf, which is
+a Korean Emotional End-to-End Neural Speech synthesizer, based on the Tacotron model (Y. Wang et al., “Tacotron: Towards End-to-End Speech Synthesis,” arXiv Prepr. arXiv1703.10135, 2017).  
 Code is forked from https://github.com/keithito/tacotron
 
 ### Demo
