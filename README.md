@@ -5,10 +5,7 @@ a Korean Emotional End-to-End Neural Speech synthesizer, based on the Tacotron m
 Code is forked from https://github.com/keithito/tacotron
 
 ### Demo
-For demo, click http://143.248.48.126:9000 
-
-
-For evaluation and comparison, click http://143.248.48.126:9001 for demo of the original Tacotron (non-emotional)
+For demo, click http://143.248.97.172:9000/ 
 
 ### Emotional TTS.zip
 You can find synthesized waves and corresponding attention alignment plots of a sentence in 6 different emotions here. 
