@@ -15,3 +15,12 @@ As an example, Mel spectrograms of a sentence in happy and sad emotions are give
 
 ### Tacotron Improvements.zip
 The samples in this zip file belong to Section 4 of our paper (Younggun Lee, Azam Rabiee, Soo-Young Lee, "Emotional End-to-End Neural Speech synthesizer", accepted in Machine Learning for Audio Signal Processing (NIPS workshop), 2017)
+
+# Continuous Emotional-TTS
+Emotion is not limited to discrete categories of happy, sad, angry, fear, disgust, surprise, and so on. Instead, each emotion category is projected into pleasure-arousal-dominance, known as PAD. The value of each dimension varies from -1 to 1, such that the neutral emotion is in the center with all-zero values. Training an emotional text-to-speech (TTS) synthesizer on the independent dimensions provides the possibility of emotional speech synthesis with unlimited emotion categories. 
+
+### Demo
+For demo, click http://143.248.97.172:9001/ 
+
+### Continuous Emotional samples.zip
+You can find synthesized waves with various emotions here. 
