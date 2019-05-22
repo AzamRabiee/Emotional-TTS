@@ -20,7 +20,7 @@ The samples in this zip file belong to Section 4 of our paper (Younggun Lee, Aza
 Emotion is not limited to discrete categories of happy, sad, angry, fear, disgust, surprise, and so on. Instead, each emotion category is projected into pleasure-arousal-dominance, known as PAD. The value of each dimension varies from -1 to 1, such that the neutral emotion is in the center with all-zero values. Training an emotional text-to-speech (TTS) synthesizer on the independent dimensions provides the possibility of emotional speech synthesis with unlimited emotion categories. 
 
 ### Demo
-For demo, click http://143.248.97.172:9010/ 
+For demo, click http://143.248.97.172:9000/ 
 
 ### Continuous Emotional samples
-You can find synthesized waves with continuous emotions in this video: https://1drv.ms/v/s!AmfZGHVsXY19zTxt5q5P1egtryFR. 
+You can find synthesized waves with continuous emotions in this video: https://youtu.be/MAOk_ZxuA0I
