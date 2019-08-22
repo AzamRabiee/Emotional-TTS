@@ -23,4 +23,4 @@ Emotion is not limited to discrete categories of happy, sad, angry, fear, disgus
 For demo, click http://143.248.97.172:9000/ 
 
 ### Continuous Emotional samples
-You can find synthesized waves with continuous emotions in this video: https://youtu.be/MAOk_ZxuA0I
+You can find synthesized waves with continuous emotions in [this video](https://youtu.be/bh2HP0n2ik8)
